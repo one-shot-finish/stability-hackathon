@@ -4,4 +4,4 @@ Finetuned https://github.com/ExponentialML/Text-To-Video-Finetuning with ~500 gi
 
 For a given prompt `Jian yang started new google`, the following is how the video generated looks like
 
-[![Jian yang started new google](https://github.com/one-shot-finish/stability-hackathon/blob/main/outputs/Jian%20yang%20started%20new%20google%200582413b.webm)](https://github.com/one-shot-finish/stability-hackathon/blob/main/outputs/Jian%20yang%20started%20new%20google%200582413b.webm)
+[Jian yang started new google 0582413b.webm](https://github.com/one-shot-finish/stability-hackathon/assets/23659430/3b02db8a-b616-4097-b47e-16527a5023fd)
