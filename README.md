@@ -1,6 +1,6 @@
 # stability-hackathon
 
-Finetuned https://github.com/ExponentialML/Text-To-Video-Finetuning with ~500 gifs from Silicon Valley TV show
+Finetuned https://github.com/ExponentialML/Text-To-Video-Finetuning with ~500 gifs(scraped from web) from Silicon Valley TV show
 
 For a given prompt `Jian yang started new google`, the following is how the video generated looks like
 
